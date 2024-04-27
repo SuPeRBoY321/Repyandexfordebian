@@ -16,13 +16,16 @@ deb http://mirror.yandex.ru/debian/ bullseye main
 
 deb-src http://mirror.yandex.ru/debian/ bullseye main
 
+
 deb http://mirror.yandex.ru/debian-security bullseye-security main contrib
 
 deb-src http://mirror.yandex.ru/debian-security bullseye-security main contrib
 
+
 deb http://mirror.yandex.ru/debian/ bullseye-updates main contrib
 
 deb-src http://mirror.yandex.ru/debian/ bullseye-updates main contrib
+
 
 Запустим: 
 
